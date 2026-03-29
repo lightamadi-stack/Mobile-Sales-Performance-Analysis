@@ -1,4 +1,4 @@
-![Mobile Sales Performance Analysis Banner](images.cover page.png)
+![Mobile Sales Performance Analysis Banner](images/images.coverpage.png)
 
 # 📊 Mobile Sales Performance Analysis
 ## Overview
@@ -46,19 +46,19 @@ The analysis was designed to:
 Here are some representative visuals of the Power BI dashboard:
 
 **Sales Overview Dashboard**  
-![Sales Overview](images.dashboardoverview.png)
+![Sales Overview](images/images.dashboardoverview.png)
 
 **Customer and Market Insights I (Scatter plot)**  
-![Price & Demand, Price & Customer Ratings](image.analysis1.png)
+![Price & Demand, Price & Customer Ratings](images/image.analysis1.png)
 
 **Customer and Market Insights II (Scatter plot & Bar Chart)**  
-![Price & Demand, Premium Players](image.analysis2.png)
+![Price & Demand, Premium Players](images/image.analysis2.png)
 
 **Customer and Market Insights III (Pie & Column Chart)**  
-![Payment Methods, Storage Capacity & Sales](image. analysis3.png)
+![Payment Methods, Storage Capacity & Sales](images/image. analysis3.png)
 
 **BreakDown Analysis (Matrix)**  
-![Price vs Demand](image.analysis4.png)
+![Price vs Demand](images/image.analysis4.png)
 
 ---
 
