@@ -106,3 +106,11 @@ Mobile-Sales-Performance-Analysis/
 └── README.md            # Project overview and documentation
 
 ---
+
+---
+
+## 👤 Author
+
+**Light Amadi**  
+Mobile Sales Performance Analysis Project   
+🌐 [www.linkedin.com/in/light-a-942628360]
