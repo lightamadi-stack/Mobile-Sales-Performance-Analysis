@@ -55,7 +55,7 @@ Here are some representative visuals of the Power BI dashboard:
 ![Price & Demand, Premium Players](images/image.analysis2.png)
 
 **Customer and Market Insights III (Pie & Column Chart)**  
-![Payment Methods, Storage Capacity & Sales](images/image. analysis3.png)
+![Payment Methods, Storage Capacity & Sales](images/image.analysis3.png)
 
 **BreakDown Analysis (Matrix)**  
 ![Price vs Demand](images/image.analysis4.png)
