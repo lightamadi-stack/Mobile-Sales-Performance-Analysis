@@ -104,14 +104,6 @@ This project successfully transformed raw mobile phone sales data into actionabl
   👉 [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDExNjYyY2MtMTZmMi00YWE0LTg4YTItOTliZDhiYzkzZTdjIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9)
 
 ---
-## 📂 Repository Structure
-
-Mobile-Sales-Performance-Analysis/
-│
-├── images/              # Dashboard screenshots
-└── README.md            # Project overview and documentation
-
----
 
 ---
 
