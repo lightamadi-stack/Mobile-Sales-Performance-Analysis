@@ -98,6 +98,12 @@ This project successfully transformed raw mobile phone sales data into actionabl
 - Strengthen market share and profitability
 
 ---
+
+## 📊 Project Deliverables
+- **Power BI Dashboard**: Interactive visualization of workforce demographics, pay structure, and compliance risks.  
+  👉 [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDExNjYyY2MtMTZmMi00YWE0LTg4YTItOTliZDhiYzkzZTdjIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9)
+
+---
 ## 📂 Repository Structure
 
 Mobile-Sales-Performance-Analysis/
