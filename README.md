@@ -111,4 +111,4 @@ This project successfully transformed raw mobile phone sales data into actionabl
 
 **Light Amadi**  
 Mobile Sales Performance Analysis Project   
-🌐 [www.linkedin.com/in/light-a-942628360]
+🌐 [www.linkedin.com/in/light-amadi-942628360]
